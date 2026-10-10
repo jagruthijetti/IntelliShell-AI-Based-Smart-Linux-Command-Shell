@@ -16,6 +16,10 @@ dist/
 *.egg-info/
 .eggs/
 
+# Debian packaging and local editor state
+debian/
+.kilo/
+
 # Python build cache from Debian source build
 .pybuild/
 
